@@ -1,0 +1,130 @@
+.card-product {
+  overflow: hidden;
+  height: 120px;
+  background: white;
+  box-shadow: 0 0 16px rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+}
+
+.card-product.today {
+  box-shadow: 0 0 24px rgba(255, 0, 0, 0.8);
+}
+
+.card-product-daytime {
+  height: 100%;
+  min-width: 92px;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: none;
+  background-color: #FD0F14;
+}
+
+.card-product-daytime p {
+  color: white;
+  font-weight: bolder;
+  font-size: 24px;
+  margin: 0;
+}
+
+.card-product-infos {
+  height: 100%;
+  padding: 16px;
+}
+
+.card-product-infos h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  /*height: 2em;*/
+}
+
+
+.card-product-infos h2.key-day {
+  color: red;
+}
+
+.card-product-infos a {
+  text-decoration: none;
+}
+
+.card-product-infos p {
+  font-size: 12px;
+  line-height: 1.4;
+  opacity: .7;
+  margin-bottom: 0;
+  margin-top: 8px;
+  height: 3em;
+}
+
+
+.card-product-titles {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(253, 15, 20,0.2);
+}
+
+.card-product-titles h2 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.card-product-titles p {
+  margin: 0;
+}
+
+@media screen and (max-width: 1200px) {
+  .card-product-titles h2 {
+    font-size: 16px;
+  }
+  .card-product-infos h2 {
+    font-size: 12px;
+  }
+  .card-product-infos p {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .card-product-titles h2 {
+    font-size: 24px;
+  }
+  .card-product-infos h2 {
+    font-size: 16px;
+  }
+  .card-product-infos p {
+    font-size: 12px;
+  }
+
+  .day-slot {
+    display: none;
+  }
+  .card-product-daytime {
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .card-product {
+    height: 92px;
+  }
+
+  .card-product-titles h2 {
+    font-size: 32px;
+  }
+  .card-product-infos h2 {
+    font-size: 20px;
+  }
+  .card-product-infos p {
+    font-size: 16px;
+  }
+
+  .card-product-infos {
+    padding: 8px;
+  }
