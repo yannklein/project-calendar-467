@@ -4,63 +4,78 @@
   "career_days": [
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": "Dev Evening | 7hrs",
-      "description": "7hrs of developement"
+      "description": "7hrs of developement",
+      "important": false
     },
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": "1st Pitch",
-      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch"
+      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch",
+      "important": true
     },
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": " 2nd Pitch",
-      "description": "6hrs of developement, 2hrs of debugging/pitch prep. and Pitch"
+      "description": "6hrs of developement, 2hrs of debugging/pitch prep. and Pitch",
+      "important": true
     },
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": "Last week Pitch",
-      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch"
+      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch",
+      "important": true
     },
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": "Dev Evening | 3hrs",
-      "description": "3hrs of developement"
+      "description": "3hrs of developement",
+      "important": false
     },
     {
       "title": "Demo Day 👯‍♀️",
       "description": "Be ready for the final demo, lights on!"
+   ,       "important": true
     }
   ]
 }

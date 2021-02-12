@@ -25,7 +25,7 @@
             <p class="card-product-date"><%= career_day["date"].strftime('%b %e') %></p>
           </div>
           <div class="card-product-infos">
-            <h2><%= career_day["title"] %></h2>
+            <h2 <%= 'class="key-day"' if career_day["important"] %> ><%= career_day["title"] %></h2>
             <p><%= career_day["description"] %></p>
           </div>
         </div>
