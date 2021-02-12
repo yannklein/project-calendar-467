@@ -1,57 +1,67 @@
 {
-  "start": "2020-02-9",
+  "batch": 467,
+  "start": "2021-02-09",
   "career_days": [
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 7hrs",
+      "description": "7hrs of developement"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "1st Pitch",
+      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": " 2nd Pitch",
+      "description": "6hrs of developement, 2hrs of debugging/pitch prep. and Pitch"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Last week Pitch",
+      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch"
     },
     {
-      "title": "Super event",
-      "description": "Super description"
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
+    },
+    {
+      "title": "Dev Evening | 3hrs",
+      "description": "3hrs of developement"
+    },
+    {
+      "title": "Demo Day 👯‍♀️",
+      "description": "Be ready for the final demo, lights on!"
     }
   ]
 }
+
